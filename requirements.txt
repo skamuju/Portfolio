@@ -1,0 +1,10 @@
+
+
+
+# Stock Trading Bot:
+numpy
+yfinance
+pandas
+matplotlib
+tensorflow
+keras
