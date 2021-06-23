@@ -8,6 +8,9 @@ Contents:
 Prototype Flask Application Created for an Ecommerce Idea called Vault Operations
 Linked to a Mongo DB Database containing a user database and Product Library
 
+-Schoolwork:
+Various school projects included to help affirm my grasp on basic to moderate Python
+
 - Data Structures and Algorithms Work:
 Various Python files created by me with occasional help from others dealing with various Data Structures and Algorithms
 Some files are from private practice while others were used in Algorithm competitions such as USACO
