@@ -1,6 +1,6 @@
 Contents:
 
-- Colors.py:
+- colors.py:
 Colors.py is a project created through pygame, and it consists of a game simmiliar to the popular
 IOS game Color Switch.
 
